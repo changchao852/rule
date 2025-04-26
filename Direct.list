@@ -12,6 +12,8 @@ DOMAIN-KEYWORD,lichaichai
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
+SRC-IP-CIDR,192.168.0.112/32,no-resolve
+SRC-IP-CIDR,192.168.0.113/32,no-resolve
 
 # 国内DNS
 DOMAIN-SUFFIX,dns.alidns.com
