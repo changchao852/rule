@@ -3,6 +3,8 @@
 DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,anthropic
 DOMAIN-KEYWORD,Claude
+
+
 # 域名后缀匹配
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,chatgpt.com
@@ -24,6 +26,8 @@ DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-SUFFIX,makersuite.google.com
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai.com
+
+
 #币圈
 DOMAIN-SUFFIX,lerf.tools
 DOMAIN-SUFFIX,turbos.finance
@@ -36,9 +40,12 @@ DOMAIN-KEYWORD,wallet
 DOMAIN-KEYWORD,okex
 DOMAIN-KEYWORD,tokenpocket
 DOMAIN-SUFFIX,transit.finance
-
-
-
+DOMAIN-KEYWORD,bluefin
+DOMAIN-KEYWORD,adspower
+DOMAIN-KEYWORD,resupply
+DOMAIN-KEYWORD,noble
+#morpho
+IP-CIDR,52.41.140.145/32,no-resolve
 
 DOMAIN,token-api.metaswap.codefi.network
 DOMAIN-SUFFIX,1inch.io
