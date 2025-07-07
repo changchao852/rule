@@ -28,6 +28,7 @@ DOMAIN-SUFFIX,claude.ai.com
 DOMAIN-SUFFIX,lerf.tools
 DOMAIN-SUFFIX,turbos.finance
 DOMAIN-SUFFIX,cetus.zone
+IP-CIDR,35.162.6.26/32,no-resolve
 DOMAIN-SUFFIX,naviprotocol.io
 DOMAIN-KEYWORD,scallop
 DOMAIN-KEYWORD,morpho
