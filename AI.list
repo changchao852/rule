@@ -3,7 +3,7 @@
 DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,anthropic
 DOMAIN-KEYWORD,Claude
-DOMAIN-KEYWORD,ethereum
+
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,perplexity.ai
@@ -27,7 +27,7 @@ DOMAIN-SUFFIX,makersuite.google.com
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai.com
 DOMAIN-SUFFIX,dexscreener.com
-
+DOMAIN-SUFFIX,ethereum-rpc.publicnode.com
 
 #币圈
 DOMAIN-SUFFIX,lerf.tools
